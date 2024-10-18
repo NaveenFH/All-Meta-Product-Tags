@@ -1,0 +1,31 @@
+<!-- General Meta Tags for Bangladesh Tours -->
+<title>Bangladesh Tours & Travel Packages | Explore with Fits Holidays</title>
+<meta name="description" content="Experience lush landscapes, rich culture, and unique adventures. Book Today!">
+
+<!-- OG Tags -->
+<meta property="og:title" content="Bangladesh Tours & Travel Packages | Explore with Fits Holidays">
+<meta property="og:description" content="Explore vibrant culture, stunning landscapes, and rich heritage on your next holiday.">
+<meta property="og:image" content="https://yourwebsite.com/images/default-bangladesh-image.jpg"> <!-- Use a default image for Bangladesh -->
+<meta property="og:url" content="https://yourwebsite.com/bangladesh-tours"> <!-- General URL for Bangladesh tours -->
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Fits Holidays">
+
+<!-- Schema Markup -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "TouristTrip",
+  "name": "Bangladesh Tours & Travel Packages",
+  "description": "Explore a range of tours in Bangladesh with Fits Holidays. Experience lush landscapes, rich culture, and unique adventures.",
+  "touristType": "Tourist",
+  "offers": {
+    "@type": "Offer",
+    "url": "https://fitsholidays.com/bangladesh-tours",  // General URL for Bangladesh tours
+    "itemOffered": {
+      "@type": "Product",
+      "name": "Bangladesh Tours",
+      "description": "A collection of tours in Bangladesh, catering to adventure seekers and culture lovers."
+    }
+  }
+}
+</script>
