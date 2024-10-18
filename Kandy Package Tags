@@ -1,0 +1,31 @@
+<!-- General Meta Tags for Kandy Tours -->
+<title>Kandy Tours & Travel Packages | Explore with Fits Holidays</title>
+<meta name="description" content="Tours in Kandy, Sri Lanka with Fits Holidays. Experience breathtaking landscapes, rich heritage, and serene surroundings. Book Today!">
+
+<!-- OG Tags -->
+<meta property="og:title" content="Kandy Tours & Travel Packages | Explore with Fits Holidays">
+<meta property="og:description" content="Explore rich culture, heritage sites, and stunning mountain views on your next holiday.">
+<meta property="og:image" content="https://yourwebsite.com/images/default-kandy-image.jpg"> <!-- Use a default image for Kandy -->
+<meta property="og:url" content="https://yourwebsite.com/kandy-tours"> <!-- General URL for Kandy tours -->
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Fits Holidays">
+
+<!-- Schema Markup -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "TouristTrip",
+  "name": "Kandy Tours & Travel Packages",
+  "description": "Explore a range of tours in Kandy with Fits Holidays. Experience rich heritage, breathtaking landscapes, and serene surroundings.",
+  "touristType": "Tourist",
+  "offers": {
+    "@type": "Offer",
+    "url": "https://fitsholidays.com/kandy-tours",  // General URL for Kandy tours
+    "itemOffered": {
+      "@type": "Product",
+      "name": "Kandy Tours",
+      "description": "A collection of tours in Kandy, catering to heritage seekers and nature lovers."
+    }
+  }
+}
+</script>
