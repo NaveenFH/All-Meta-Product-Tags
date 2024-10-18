@@ -1,0 +1,31 @@
+<!-- General Meta Tags for Colombo Tours -->
+<title>Colombo Tours & Travel Packages | Explore with Fits Holidays</title>
+<meta name="description" content="Tours in Colombo Sri Lanka with Fits Holidays. Experience vibrant city life, rich culture, and stunning coastal views. Book Today!">
+
+<!-- OG Tags -->
+<meta property="og:title" content="Colombo Tours & Travel Packages | Explore with Fits Holidays">
+<meta property="og:description" content="Unique experiences in Colombo. Explore vibrant culture, city attractions, and coastal beauty on your next holiday.">
+<meta property="og:image" content="https://yourwebsite.com/images/default-colombo-image.jpg"> <!-- Use a default image for Colombo -->
+<meta property="og:url" content="https://yourwebsite.com/colombo-tours"> <!-- General URL for Colombo tours -->
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Fits Holidays">
+
+<!-- Schema Markup -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "TouristTrip",
+  "name": "Colombo Tours & Travel Packages",
+  "description": "Explore a range of tours in Colombo with Fits Holidays. Experience rich culture, vibrant city life, and stunning coastal views.",
+  "touristType": "Tourist",
+  "offers": {
+    "@type": "Offer",
+    "url": "https://fitsholidays.com/colombo-tours",  // General URL for Colombo tours
+    "itemOffered": {
+      "@type": "Product",
+      "name": "Colombo Tours",
+      "description": "A collection of tours in Colombo, catering to culture lovers and city explorers."
+    }
+  }
+}
+</script>
