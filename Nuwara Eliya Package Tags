@@ -1,0 +1,32 @@
+<!-- General Meta Tags for Nuwara Eliya Tours -->
+<title>Nuwara Eliya Tours & Travel Packages | Explore with Fits Holidays</title>
+<meta name="description" content="Tours in Nuwara Eliya, Sri Lanka with Fits Holidays. Experience stunning landscapes, tea plantations, and cool climate. Book Today!">
+
+<!-- OG Tags -->
+<meta property="og:title" content="Nuwara Eliya Tours & Travel Packages | Explore with Fits Holidays">
+<meta property="og:description" content="Explore breathtaking landscapes, lush tea plantations, and serene beauty on your next holiday.">
+<meta property="og:image" content="https://yourwebsite.com/images/default-nuwara-eliya-image.jpg"> <!-- Use a default image for Nuwara Eliya -->
+<meta property="og:url" content="https://yourwebsite.com/nuwara-eliya-tours"> <!-- General URL for Nuwara Eliya tours -->
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Fits Holidays">
+
+<!-- Schema Markup -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "TouristTrip",
+  "name": "Nuwara Eliya Tours & Travel Packages",
+  "description": "Explore a range of tours in Nuwara Eliya with Fits Holidays. Experience stunning landscapes, lush tea plantations, and cool climate.",
+  "touristType": "Tourist",
+  "offers": {
+    "@type": "Offer",
+    "url": "https://fitsholidays.com/nuwara-eliya-tours",  // General URL for Nuwara Eliya tours
+    "itemOffered": {
+      "@type": "Product",
+      "name": "Nuwara Eliya Tours",
+      "description": "A collection of tours in Nuwara Eliya, catering to nature lovers and tea enthusiasts."
+    }
+  }
+}
+</script>
+
