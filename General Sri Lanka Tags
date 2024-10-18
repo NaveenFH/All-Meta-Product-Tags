@@ -1,0 +1,31 @@
+<!-- General Meta Tags for Sri Lanka Tours -->
+<title>Sri Lanka Tours & Travel Packages | Explore with Fits Holidays</title>
+<meta name="description" content="Unforgettable tours in Sri Lanka with Fits Holidays. Experience breathtaking landscapes, rich culture, and luxurious getaways. Book Today!">
+
+<!-- OG Tags -->
+<meta property="og:title" content=">Sri Lanka Tours & Travel Packages | Explore with Fits Holidays">
+<meta property="og:description" content="Join Fits Holidays for unique experiences in Sri Lanka. Explore adventure, culture, and beauty on your next holiday.">
+<meta property="og:image" content="https://yourwebsite.com/images/default-sri-lanka-image.jpg"> <!-- Use a default image for Sri Lanka -->
+<meta property="og:url" content="https://yourwebsite.com/sri-lanka-tours"> <!-- General URL for Sri Lanka tours -->
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Fits Holidays">
+
+<!-- Schema Markup -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "TouristTrip",
+  "name": "Sri Lanka Tours & Travel Packages",
+  "description": "Explore a range of tours in Sri Lanka with Fits Holidays. Experience rich culture, stunning landscapes, and unforgettable adventures.",
+  "touristType": "Tourist",
+  "offers": {
+    "@type": "Offer",
+    "url": "https://fitsholidays.com/sri-lanka-tours",  // General URL for Sri Lanka tours
+    "itemOffered": {
+      "@type": "Product",
+      "name": "Sri Lanka Tours",
+      "description": "A collection of tours in Sri Lanka, catering to adventure seekers and culture lovers."
+    }
+  }
+}
+</script>
