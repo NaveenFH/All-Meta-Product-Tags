@@ -1,0 +1,31 @@
+<!-- General Meta Tags for India Tours -->
+<title>India Tours & Travel Packages | Explore with Fits Holidays</title>
+<meta name="description" content="Experience diverse culture, stunning landscapes, and rich history. Book Today!">
+
+<!-- OG Tags -->
+<meta property="og:title" content="India Tours & Travel Packages | Explore with Fits Holidays">
+<meta property="og:description" content="Explore vibrant culture, historical sites, and breathtaking landscapes on your next holiday.">
+<meta property="og:image" content="https://yourwebsite.com/images/default-india-image.jpg"> <!-- Use a default image for India -->
+<meta property="og:url" content="https://yourwebsite.com/india-tours"> <!-- General URL for India tours -->
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Fits Holidays">
+
+<!-- Schema Markup -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "TouristTrip",
+  "name": "India Tours & Travel Packages",
+  "description": "Explore a range of tours in India with Fits Holidays. Experience diverse culture, stunning landscapes, and rich history.",
+  "touristType": "Tourist",
+  "offers": {
+    "@type": "Offer",
+    "url": "https://fitsholidays.com/india-tours",  // General URL for India tours
+    "itemOffered": {
+      "@type": "Product",
+      "name": "India Tours",
+      "description": "A collection of tours in India, catering to culture lovers and adventure seekers."
+    }
+  }
+}
+</script>
