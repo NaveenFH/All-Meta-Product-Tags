@@ -1,0 +1,31 @@
+<!-- General Meta Tags for UAE Tours -->
+<title>UAE Tours & Travel Packages | Explore with Fits Holidays</title>
+<meta name="description" content="Experience luxury, adventure, and rich culture in the heart of the Middle East. Book Today!">
+
+<!-- OG Tags -->
+<meta property="og:title" content="UAE Tours & Travel Packages | Explore with Fits Holidays">
+<meta property="og:description" content="Explore luxury, adventure, and vibrant culture on your next holiday.">
+<meta property="og:image" content="https://yourwebsite.com/images/default-uae-image.jpg"> <!-- Use a default image for UAE -->
+<meta property="og:url" content="https://yourwebsite.com/uae-tours"> <!-- General URL for UAE tours -->
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Fits Holidays">
+
+<!-- Schema Markup -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "TouristTrip",
+  "name": "UAE Tours & Travel Packages",
+  "description": "Explore a range of tours in the UAE with Fits Holidays. Experience luxury, adventure, and rich culture.",
+  "touristType": "Tourist",
+  "offers": {
+    "@type": "Offer",
+    "url": "https://fitsholidays.com/uae-tours",  // General URL for UAE tours
+    "itemOffered": {
+      "@type": "Product",
+      "name": "UAE Tours",
+      "description": "A collection of tours in the UAE, catering to luxury seekers and adventure lovers."
+    }
+  }
+}
+</script>
